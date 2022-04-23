@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [ ] User has a limited amount of time to enter their guess on each turn
+* -[x] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
@@ -49,7 +49,7 @@ For my project, I used resources from W3Schools, CSS Background generator, and h
 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-The main challenge I experienced during the project was the playing clues. I followed the instructions thoroughly, however I had a difficult time with creating the pattern and setting the time for the user. In the live preview, it did not seem to work therefore I knew there was an error in my code. I went back to read the references carefully and used W3Schools to learn more about functions as additional help. It turns out that I was missing a key component in my code which was the for loop in the playClueSequence function.
+The main challenge I experienced during the project were the playing clues function. I followed the instructions thoroughly, however I had a difficult time with creating the pattern and setting the time for the user. In the live preview, it did not seem to work therefore I knew there was an error in my code. I went back to read the references carefully and used W3Schools to learn more about functions as additional help. It turns out that I was missing a key component in my code which was the for loop in the playClueSequence function.
 
 I also encountered another challenge while creating the style and layout of the game. As the color buttons needed to be changed on click, I wanted to add my own personal style to the buttons. I went to a CSS generator website to find gradient background colors and solid colors. My goal was to have the solid colors on click and have the gradient colors to be off click. After inputting the background colors, the buttons still appeared grey. I figured out that I did not have the parentheses in the correct place. Once fixing the issue, the button colors became visible.
 
