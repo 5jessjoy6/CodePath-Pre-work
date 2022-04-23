@@ -3,11 +3,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: Jessica DeWitt
 
-Time spent: **#** hours spent in total
+Time spent: 6 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://light-and-sound-memory-game-1.glitch.me/
 
 ## Required Functionality
 
@@ -40,34 +40,43 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![]https://recordit.co/335cCt8Q0h
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+For my project, I used resources from W3Schools, CSS Background generator, and help from CodePath TAs.
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+The main challenge I experienced during the project was the playing clues. I followed the instructions thoroughly, however I had a difficult time with creating the pattern and setting the time for the user. In the live preview, it did not seem to work therefore I knew there was an error in my code. I went back to read the references carefully and used W3Schools to learn more about functions as additional help. It turns out that I was missing a key component in my code which was the for loop in the playClueSequence function.
+
+I also encountered another challenge while creating the style and layout of the game. As the color buttons needed to be changed on click, I wanted to add my own personal style to the buttons. I went to a CSS generator website to find gradient background colors and solid colors. My goal was to have the solid colors on click and have the gradient colors to be off click. After inputting the background colors, the buttons still appeared grey. I figured out that I did not have the parentheses in the correct place. Once fixing the issue, the button colors became visible.
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I have gained more knowledge in web development after completing this project. Judging from my overall performance, I would say that I can improve more on the back end of web development. 
+
+There are many questions I have regarding web development. For example, is it possible to integrate an API into your website and how? Are other programming languages useful for different web applications? What kind of websites do you use python for and what kind do you use javascript for? And what tools do you use for debugging to improve the site.
+
+I would like to learn and know how much I can accomplish with web development. I have many ideas that I would like to bring into action to share and hopefully become helpful with others. I believe I would be able to do this if I continue to learn more about the back and front end of web development.
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I had more time to work on this project, I would definitely add more creative features to the look and layout of the game. I would like to have created a galaxy theme game with an animated background. To accompany the theme of the game, I could have made the buttons into different planets in the solar system. Thus creating an interactive learning game. Insteading of a guessing game,the sequence of the buttons (planets) would have taught the user the planets closest and farthest from the sun. Completing this project has encouraged me to create my own games in my free time and learn more javascript and css styles.
+
+
 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://www.kapwing.com/videos/626378b905ee8c00e8c78301
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Jessica DeWitt
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
